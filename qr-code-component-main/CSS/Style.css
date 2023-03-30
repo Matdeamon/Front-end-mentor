@@ -1,0 +1,33 @@
+body{
+ 
+text-align: center;
+background-color:hsl(212, 45%, 89%);
+font-family: 'Outfit', sans-serif;
+
+}
+img{
+    border-radius: 3%;
+}
+.First-Container{
+    background-color: white;
+    width: 25%;
+    margin: 10% auto;
+    padding: 1% 0.05% 2%;
+    border-radius: 3%;
+}
+.Qr{
+    width: 90%;
+}
+.primeroP{
+    font-weight: 700;
+    width: 80%;
+    margin: 5% auto;
+}
+
+.secondP{
+    font-weight:400;
+
+    color: hsl(220, 15%, 55%);
+    width: 80%;
+    margin: auto;
+}
